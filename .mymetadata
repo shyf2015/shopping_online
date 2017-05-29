@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Science_Museum"
+  id="myeclipse.1493791299471"
+  context-root="/Science_Museum"
+  j2ee-spec="5.0"
+  archive="Science_Museum.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

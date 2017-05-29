@@ -1,0 +1,63 @@
+form input{margin-top:10px;height:40px;}
+  	.menu{ 
+  		margin-top:10px;
+  		list-style:none;
+  		background:#ccf;
+  		padding:5px;
+  		border-radius:10px;
+  	}
+  	.menu li{
+  		padding:0;
+  		height:40px;
+  		margin:10px;
+  		background:#eef;
+  		text-align:center;
+  		line-height:40px;
+  		border-radius:10px;
+  	}
+  	.menu li a{
+  		font-size:20px;
+  	}
+  	.menu .brand{
+  		position:absolute;
+  		z-index:999;
+  		display:none;
+  		list-style:none;
+  		width:100px;
+  		left:100%;
+  		top:0;
+  		padding:0px;
+  	}
+  	.menu .brand li{
+  		background:rgba(180,250,250,0.2);
+  		text-align:center;
+  		margin:0px;
+  		border-radius:0;
+  		padding:5px;
+  		
+  	}
+  	.menu .brand li a{
+  		font-size:18px;
+  		color:black;
+  	}
+  	.hot{
+  		display:block;
+  		margin-top:10px;
+  		height:40px;
+  		background:rgba(200,255,200,0.5);
+  		text-align:center;
+  		line-height:40px;
+  	}
+  	.img{
+  		margin-top:10px;
+  		margin-bottom:0px;
+  		padding-bottom:10px;
+  	}
+  	.img img{
+  		width:100%;
+  		height:200px;
+  	}
+  	.goodsname{
+  		word-break:break-word;
+  		text-align:center;
+  	}
